@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5Xts70PY+Lw=",
+  "dgSpecHash": "hv29BBIZzmI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\zozo_\\Desktop\\PWC_Teszt\\MovieApi\\MovieApi\\MovieApi.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\Pwc_tesztfeladat\\MovieApi\\MovieApi\\MovieApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zozo_\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
     "C:\\Users\\zozo_\\.nuget\\packages\\microsoft.extensions.apidescription.server\\9.0.0\\microsoft.extensions.apidescription.server.9.0.0.nupkg.sha512",

@@ -34,11 +34,12 @@ var movies = new List<Movie>
     new Movie
     {
         Id = 1,
-        Title = "Inception",
+        Title = "Interstellar",
         Actors = new List<Actor>
         {
-            new Actor { Name = "Leonardo DiCaprio", Role = "főszerep" },
-            new Actor { Name = "Joseph Gordon-Levitt", Role = "mellékszerep" }
+            new Actor { Name = "Matthew McConaughey", Role = "főszerep" },
+            new Actor { Name = "Casey Affleck", Role = "mellékszerep" },
+            new Actor { Name = "Michael Caine", Role = "mellékszerep" }
         }
     }
 };

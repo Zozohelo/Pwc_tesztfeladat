@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zozo_\\Desktop\\PWC_Teszt\\MovieApi\\MovieApi\\MovieApi.csproj": {}
+    "C:\\xampp\\htdocs\\Pwc_tesztfeladat\\MovieApi\\MovieApi\\MovieApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zozo_\\Desktop\\PWC_Teszt\\MovieApi\\MovieApi\\MovieApi.csproj": {
+    "C:\\xampp\\htdocs\\Pwc_tesztfeladat\\MovieApi\\MovieApi\\MovieApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zozo_\\Desktop\\PWC_Teszt\\MovieApi\\MovieApi\\MovieApi.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\Pwc_tesztfeladat\\MovieApi\\MovieApi\\MovieApi.csproj",
         "projectName": "MovieApi",
-        "projectPath": "C:\\Users\\zozo_\\Desktop\\PWC_Teszt\\MovieApi\\MovieApi\\MovieApi.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\Pwc_tesztfeladat\\MovieApi\\MovieApi\\MovieApi.csproj",
         "packagesPath": "C:\\Users\\zozo_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zozo_\\Desktop\\PWC_Teszt\\MovieApi\\MovieApi\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\Pwc_tesztfeladat\\MovieApi\\MovieApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\zozo_\\Desktop\\PWC_Teszt\\MovieApi\\",
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\Pwc_tesztfeladat\\MovieApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A26226EC-3360-4159-A47D-63A30FE9B76C}|MovieApi\\MovieApi.csproj|c:\\users\\zozo_\\desktop\\pwc_teszt\\movieapi\\movieapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A26226EC-3360-4159-A47D-63A30FE9B76C}|MovieApi\\MovieApi.csproj|c:\\xampp\\htdocs\\pwc_tesztfeladat\\movieapi\\movieapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A26226EC-3360-4159-A47D-63A30FE9B76C}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A26226EC-3360-4159-A47D-63A30FE9B76C}|MovieApi\\MovieApi.csproj|c:\\users\\zozo_\\desktop\\pwc_teszt\\movieapi\\movieapi\\movieapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{A26226EC-3360-4159-A47D-63A30FE9B76C}|MovieApi\\MovieApi.csproj|c:\\xampp\\htdocs\\pwc_tesztfeladat\\movieapi\\movieapi\\movieapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{A26226EC-3360-4159-A47D-63A30FE9B76C}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\movieapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A26226EC-3360-4159-A47D-63A30FE9B76C}|MovieApi\\MovieApi.csproj|c:\\users\\zozo_\\desktop\\pwc_teszt\\movieapi\\movieapi\\models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A26226EC-3360-4159-A47D-63A30FE9B76C}|MovieApi\\MovieApi.csproj|c:\\xampp\\htdocs\\pwc_tesztfeladat\\movieapi\\movieapi\\models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A26226EC-3360-4159-A47D-63A30FE9B76C}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A26226EC-3360-4159-A47D-63A30FE9B76C}|MovieApi\\MovieApi.csproj|c:\\users\\zozo_\\desktop\\pwc_teszt\\movieapi\\movieapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A26226EC-3360-4159-A47D-63A30FE9B76C}|MovieApi\\MovieApi.csproj|c:\\xampp\\htdocs\\pwc_tesztfeladat\\movieapi\\movieapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A26226EC-3360-4159-A47D-63A30FE9B76C}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A26226EC-3360-4159-A47D-63A30FE9B76C}|MovieApi\\MovieApi.csproj|c:\\users\\zozo_\\desktop\\pwc_teszt\\movieapi\\movieapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A26226EC-3360-4159-A47D-63A30FE9B76C}|MovieApi\\MovieApi.csproj|c:\\xampp\\htdocs\\pwc_tesztfeladat\\movieapi\\movieapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A26226EC-3360-4159-A47D-63A30FE9B76C}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -40,37 +40,35 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Actor.cs",
-              "DocumentMoniker": "C:\\Users\\zozo_\\Desktop\\PWC_Teszt\\MovieApi\\MovieApi\\Models\\Actor.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Pwc_tesztfeladat\\MovieApi\\MovieApi\\Models\\Actor.cs",
               "RelativeDocumentMoniker": "MovieApi\\Models\\Actor.cs",
-              "ToolTip": "C:\\Users\\zozo_\\Desktop\\PWC_Teszt\\MovieApi\\MovieApi\\Models\\Actor.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Pwc_tesztfeladat\\MovieApi\\MovieApi\\Models\\Actor.cs",
               "RelativeToolTip": "MovieApi\\Models\\Actor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T10:16:54.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-29T10:16:54.486Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\zozo_\\Desktop\\PWC_Teszt\\MovieApi\\MovieApi\\Models\\Movie.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Pwc_tesztfeladat\\MovieApi\\MovieApi\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "MovieApi\\Models\\Movie.cs",
-              "ToolTip": "C:\\Users\\zozo_\\Desktop\\PWC_Teszt\\MovieApi\\MovieApi\\Models\\Movie.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Pwc_tesztfeladat\\MovieApi\\MovieApi\\Models\\Movie.cs",
               "RelativeToolTip": "MovieApi\\Models\\Movie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T10:13:21.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-29T10:13:21.28Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\zozo_\\Desktop\\PWC_Teszt\\MovieApi\\MovieApi\\Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Pwc_tesztfeladat\\MovieApi\\MovieApi\\Program.cs",
               "RelativeDocumentMoniker": "MovieApi\\Program.cs",
-              "ToolTip": "C:\\Users\\zozo_\\Desktop\\PWC_Teszt\\MovieApi\\MovieApi\\Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Pwc_tesztfeladat\\MovieApi\\MovieApi\\Program.cs",
               "RelativeToolTip": "MovieApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-29T09:42:24.75Z",
               "EditorCaption": ""
@@ -79,22 +77,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MovieApi.http",
-              "DocumentMoniker": "C:\\Users\\zozo_\\Desktop\\PWC_Teszt\\MovieApi\\MovieApi\\MovieApi.http",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Pwc_tesztfeladat\\MovieApi\\MovieApi\\MovieApi.http",
               "RelativeDocumentMoniker": "MovieApi\\MovieApi.http",
-              "ToolTip": "C:\\Users\\zozo_\\Desktop\\PWC_Teszt\\MovieApi\\MovieApi\\MovieApi.http",
+              "ToolTip": "C:\\xampp\\htdocs\\Pwc_tesztfeladat\\MovieApi\\MovieApi\\MovieApi.http",
               "RelativeToolTip": "MovieApi\\MovieApi.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-08-29T07:12:42.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-29T07:12:42.268Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\zozo_\\Desktop\\PWC_Teszt\\MovieApi\\MovieApi\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Pwc_tesztfeladat\\MovieApi\\MovieApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "MovieApi\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\zozo_\\Desktop\\PWC_Teszt\\MovieApi\\MovieApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\xampp\\htdocs\\Pwc_tesztfeladat\\MovieApi\\MovieApi\\Properties\\launchSettings.json",
               "RelativeToolTip": "MovieApi\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAMAAAAAAAAAAAAQwB0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

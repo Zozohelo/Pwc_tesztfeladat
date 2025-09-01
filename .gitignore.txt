@@ -1,0 +1,15 @@
+# Visual Studio cache mappák
+.vs/
+bin/
+obj/
+
+# Felhasználóhoz kötött beállítások
+*.user
+*.suo
+
+# Adatbázis fájlok
+*.db
+*.db-shm
+*.db-wal
+*.dbcache
+*.vsidx
