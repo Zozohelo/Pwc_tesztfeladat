@@ -50,12 +50,6 @@ var movies = new List<Movie>
 app.MapGet("/movies", () => Results.Ok(movies));
 
 
-//Id alapján való film keresés-> GET
-app.MapGet("/movies/{id}", (int id) =>
-{
-    var movie = movies.FirstOrDefault(m => m.Id == id);
-    return movie is not null ? Results.Ok(movie) : Results.NotFound();
-});
 
 //Új film létrehozása-> POST
 app.MapPost("/movies", (Movie movie) =>
