@@ -1,5 +1,6 @@
 # Pwc_tesztfeladat
 
+ASP.NET Core Web Api
 -Movie API futtatásához szükséges lépések:
 
 Szükséges eszközök:
@@ -14,15 +15,25 @@ Futtatás Visual Studio-n keresztül:
 
 3. Nyomj Ctrl+F5-öt az indításhoz.
 
-Futtatás Visual Studio nélkül:
-
-1. cd MovieApi
-2. dotnet restore
-3. dotnet build
-4. dotnet run
-
 Alapértelmezés szerint az API a következő címen fut:
 - http://localhost:5022/movies
 
 Swagger elérése:
 - http://localhost:5022/swagger
+
+----------------------------------------------------------------------------------
+
+Vite + React frontend futtatásához szükséges lépések:
+
+1. Nyisd meg a Visual Studio Code-ot.
+
+2. Válaszd a File → Open Folder… menüpontot, és nyisd meg a projekt mappáját.
+   
+3. Nyiss egy terminált a VS Code-on belül, majd futtatsd a következő parancsokat:
+
+   -npm install (Megjegyzés: a Tailwind CSS és egyéb függőségek az `npm install` parancs során automatikusan települnek.)
+   -npm run dev
+
+A következő címen érhető el indítás után:
+ - http://localhost:5173/
+
