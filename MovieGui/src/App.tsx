@@ -8,6 +8,7 @@ function App() {
   return (
     <>
       <Navbar />
+      {/* Útvonalak */}
       <Routes>
         <Route path="/" element={<MoviesPage />} />
         <Route path="/movie-add" element={<AddMovie />} />

@@ -18,6 +18,7 @@ export const MovieContext = createContext<IMovieContext>(defaultMovieContext);
 export const MovieContextProvider = ({ children }: { children: ReactNode }) => {
   const [movies, setMovies] = useState<IMovie[]>([]);
 
+  //Filmek betöltése
   async function loadMovie() {
     const response = await fetch("http://localhost:5022/movies");
     const data: IMovie[] = await response.json();
@@ -28,6 +29,7 @@ export const MovieContextProvider = ({ children }: { children: ReactNode }) => {
     loadMovie();
   }, []);
 
+  //Film hozzáadása
   async function addMovie(newMovie: IMovie) {
     const response = await fetch("http://localhost:5022/movies", {
       method: "POST",
